@@ -38,7 +38,6 @@ Olá! Meu nome é Brenda Mendes. Estou cursando Ciências de Dados no IBMEC, ond
 
 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Meu objetivo é seguir carreira na área de Análise de Dados, aplicando meus conhecimentos para resolver problemas complexos e gerar insights valiosos.
 
+---
 
 Obrigado por visitar meu perfil!
-
----
