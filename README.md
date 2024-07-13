@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Olá! Meu nome é Brenda 
+
+Estou cursando Ciências de Dados no IBMEC. Embora o Front-end tenham me atraído, estou muito interessada em seguir na área de Análise de dados.
+
+Obrigado por visitar meu perfil!
