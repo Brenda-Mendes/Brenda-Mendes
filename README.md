@@ -27,7 +27,6 @@ Olá! Meu nome é Brenda Mendes. Estou cursando Ciências de Dados no IBMEC, ond
 - **Idiomas:** 
   - Inglês (Avançado)
   - Japonês (Iniciante)
-  - Coreano (Iniciante)
 
 
 ### Experiência
