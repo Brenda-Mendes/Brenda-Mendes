@@ -1,4 +1,12 @@
-# Olá, eu sou a Brenda Mendes
+# Meu nome é 
+
+<p align="center">
+  <img
+    src="./Brenda.png"
+    alt="Banner Brenda Mendes"
+    width="100%"
+  />
+</p>
 
 Sou estudante de **Ciência de Dados e Inteligência Artificial no Ibmec** e tenho interesse principalmente em **Engenharia de Dados, automação e desenvolvimento de soluções tecnológicas**.
 
