@@ -1,23 +1,41 @@
-## Sobre Mim
+# Olá, eu sou a Brenda Mendes
 
-Olá! Meu nome é Brenda Mendes. Estou cursando Ciências de Dados no IBMEC, onde desenvolvi uma paixão pela Análise de Dados. Embora o Front-end tenha me atraído no início, meu interesse se aprofundou na área de análise e manipulação de dados.
+Sou estudante de **Ciência de Dados e Inteligência Artificial no Ibmec** e tenho interesse principalmente em **Engenharia de Dados, automação e desenvolvimento de soluções tecnológicas**.
 
-### Habilidades
+Gosto de criar projetos que conectam dados, sistemas e processos desde a coleta e organização das informações até a criação de automações que reduzem tarefas manuais.
 
-- **Programação:** Python, SQL, Power BI, HTML, CSS, JavaScript, React, Java
-- **Análise de Dados:** Processamento de dados, visualização de dados, modelagem estatística
-- **Idiomas:** 
-  - Inglês (Avançado)
-  - Japonês (Iniciante)
+Atualmente, estou aprofundando meus conhecimentos em pipelines de dados, bancos de dados, APIs, cloud computing e desenvolvimento backend.
 
+## Tecnologias
 
-### Experiência
+### Dados e automação
 
-- **Voluntariado:** Atuei como voluntária no Energy Summit Rio, desenvolvendo habilidades de trabalho em equipe e gestão de projetos.
+`Python` `SQL` `MySQL` `PostgreSQL` `Power BI` `Power Automate` `Excel` `R`
 
-### Objetivos
+### Desenvolvimento
 
-Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Meu objetivo é seguir carreira na área de Análise de Dados, aplicando meus conhecimentos para resolver problemas complexos e gerar insights valiosos.
+`Java` `JavaScript` `React` `HTML` `CSS` `APIs REST` `Swagger`
+
+### Infraestrutura e ferramentas
+
+`Docker` `Azure` `Linux` `Git` `GitHub` `Cloud Computing`
+
+## Projetos
+
+Aqui você encontrará projetos relacionados a:
+
+- Engenharia e análise de dados;
+- Automação de processos;
+- Validação e processamento de documentos;
+- Desenvolvimento backend;
+- APIs e integração de sistemas;
+- Business Intelligence.
+
+## Um pouco além da tecnologia
+
+No meu tempo livre, gosto de jogar RPG, ler e conhecer diferentes tipos de jogos. Essas atividades fazem parte do meu interesse por histórias, criatividade, estratégia e resolução de problemas.
+
+## Minhas contribuições
 
 <picture>
   <source
@@ -33,7 +51,3 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
     src="https://raw.githubusercontent.com/Brenda-Mendes/Brenda-Mendes/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
----
-
-Obrigado por visitar meu perfil!
