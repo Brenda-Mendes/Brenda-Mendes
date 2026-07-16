@@ -33,7 +33,7 @@ Aqui você encontrará projetos relacionados a:
 
 ## Um pouco além da tecnologia
 
-No meu tempo livre, gosto de jogar RPG, ler e conhecer diferentes tipos de jogos. Essas atividades fazem parte do meu interesse por histórias, criatividade, estratégia e resolução de problemas.
+No meu tempo livre, gosto de jogar RPG, ler e conhecer diferentes tipos de jogos.
 
 ## Minhas contribuições
 
