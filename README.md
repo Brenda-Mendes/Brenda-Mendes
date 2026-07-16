@@ -19,6 +19,21 @@ Olá! Meu nome é Brenda Mendes. Estou cursando Ciências de Dados no IBMEC, ond
 
 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Meu objetivo é seguir carreira na área de Análise de Dados, aplicando meus conhecimentos para resolver problemas complexos e gerar insights valiosos.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Brenda-Mendes/Brenda-Mendes/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Brenda-Mendes/Brenda-Mendes/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha com as contribuições do GitHub"
+    src="https://raw.githubusercontent.com/Brenda-Mendes/Brenda-Mendes/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 Obrigado por visitar meu perfil!
